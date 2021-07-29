@@ -4,7 +4,7 @@
 
 https://nodejs.org/en/download/
 
-## watch the following youtupe video to to know how to install the npm and clone the app
+## Watch the following youtupe video to know how to install the npm and clone the app
 
 https://www.youtube.com/watch?v=i8KuDon82KM
 
@@ -28,11 +28,13 @@ useful link: https://create-react-app.dev/docs/adding-typescript/
 
 ### `npm install -g json-server`
 
-###  create a json file inside the project directory 'db.json'
+useful link: https://www.npmjs.com/package/json-server
+
+##  create a json file inside the project directory 'db.json'
 
 ### `touch db.json`
 
-### add some data inside the 'db.json' file
+## Add some data inside the 'db.json' file
 
 ### 
 ```
