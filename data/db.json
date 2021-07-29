@@ -1,0 +1,58 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome to UC",
+      "body": "I'm a new student in citcs ",
+      "author": "student",
+      "id": 1
+    },
+    {
+      "title": "CITCS family - Webinar 2021",
+      "body": "Good day everyone! Our teachers from the CITCS family are conducting a seminar with the theme \"IT Current Trends & Emerging Technologies\"",
+      "author": "faculty",
+      "id": 3
+    },
+    {
+      "title": "sss",
+      "body": "aaa",
+      "author": "faculty",
+      "id": 4
+    },
+    {
+      "title": "Announcement",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the ",
+      "author": "faculty",
+      "id": 5
+    },
+    {
+      "title": "Enrollment",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ",
+      "author": "faculty",
+      "id": 6
+    },
+    {
+      "title": "UC Advisory",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+      "author": "student",
+      "id": 7
+    },
+    {
+      "title": "Adding Subjects",
+      "body": "list of subjects\n.....\n..........\n.......\n...........\n...........\n...........\n................",
+      "author": "student",
+      "id": 8
+    },
+    {
+      "title": "CITCS alumni",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+      "author": "student",
+      "id": 9
+    },
+    {
+      "title": "TypeScript ",
+      "body": "# typescript programming language\n\n##Basically, TypeScript is like an extension or \"superset\" of JavaScript.\nSince JavaScript is a loosely typed language,\nTypeScript enforces the strict use of types. \nThus, making it a strictly typed language.\n\n### The goal of TypeScript is to help catch mistakes early through a type system and to make JavaScript development more efficient.",
+      "author": "student",
+      "id": 10
+    }
+  ]
+}
