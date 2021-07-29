@@ -1,4 +1,4 @@
-# Getting Started with Create React App with TypeScript
+# Run locally
 
 ## Install node.js
 
