@@ -30,7 +30,7 @@ useful link: https://create-react-app.dev/docs/adding-typescript/
 
 useful link: https://www.npmjs.com/package/json-server
 
-##  create a json file inside the project directory 'db.json'
+##  Create a json file inside the project directory 'db.json'
 
 ### `touch db.json`
 
