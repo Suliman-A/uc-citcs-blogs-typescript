@@ -51,7 +51,7 @@ useful link: https://www.npmjs.com/package/json-server
       "title": "CITCS family - Webinar 2021",
       "body": "Good day everyone!",
       "author": "faculty",
-      "id": 3
+      "id": 2
     }
     ]
  }   
