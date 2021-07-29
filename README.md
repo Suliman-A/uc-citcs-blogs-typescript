@@ -52,7 +52,8 @@ useful link: https://www.npmjs.com/package/json-server
       "body": "Good day everyone!",
       "author": "faculty",
       "id": 3
-    },
+    }
+    ]
  }   
 ```
 
